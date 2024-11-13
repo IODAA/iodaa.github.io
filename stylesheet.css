@@ -7,7 +7,7 @@ body
 	background-color: #ffffff;
 	line-height: 200%;
 	margin-top: 0px;
-	background: #ffffff url('http://www.agroparistech.fr/ufr-info/iodaa/admin/img/bg.gif') top center repeat-x;
+	background: #ffffff url('https://iodaa.github.io/bg.gif') top center repeat-x;
 }
 
 #border
@@ -15,7 +15,7 @@ body
 	border: 0px ;
 	width: 1000px;
 	background-color: #FFFFFF;
-	background:url(http://www.agroparistech.fr/ufr-info/iodaa/admin/img/border_img.png) no-repeat;
+	background:url(https://iodaa.github.io/border_img.png) no-repeat;
 	margin: -26px auto;
 }
 
@@ -34,7 +34,7 @@ body
 	height: 192px;
 	width: 970px;
 	border-top: 41px solid #ffffff;
-	background-image:url(http://www.agroparistech.fr/ufr-info/iodaa/admin/img/iodaa_header.png);
+	background-image:url(https://iodaa.github.io/iodaa_header.png);
 }
 
 #content
@@ -52,7 +52,7 @@ body
 	text-align:justify;
 	text-indent:0.5cm;
 	line-height:1.8em;
-	/*background: url(http://www.agroparistech.fr/ufr-info/iodaa/admin/img/ideabg.jpg) repeat-x top left;*/
+	/*background: url(https://iodaa.github.io/ideabg.jpg) repeat-x top left;*/
 	width: 710px;
 	min-height: 100px;
 	border-top: #808060 solid 1px;
@@ -125,7 +125,7 @@ body
 }
 
 .splitright {
-	background: #ffffff url(http://www.agroparistech.fr/ufr-info/iodaa/admin/img/menu.gif) top center no-repeat;
+	background: #ffffff url(https://iodaa.github.io/menu.gif) top center no-repeat;
 	width: 180px;
 	float: right;
 	overflow: hidden;
@@ -147,7 +147,7 @@ body
 	width:180px;
 	padding:0px 0px;
 	margin:20px 0 20px 20px;
-	background: url(http://www.agroparistech.fr/ufr-info/iodaa/admin/img/menu.gif) no-repeat;
+	background: url(https://iodaa.github.io/menu.gif) no-repeat;
 	text-align:center;
 	line-height:1.5em;
 	color:#999999;
@@ -254,7 +254,7 @@ a:hover					{ color: #999999; text-decoration: none; }
 	  
 #topmenu a {
       float:left;
-      background:url(http://www.agroparistech.fr/ufr-info/iodaa/admin/img/menuleft.gif) no-repeat left top;
+      background:url(https://iodaa.github.io/menuleft.gif) no-repeat left top;
       margin:0;
       padding:0 0 0 4px;
       text-decoration:none;
@@ -263,7 +263,7 @@ a:hover					{ color: #999999; text-decoration: none; }
 #topmenu a span {
       float:left;
       display:block;
-      background:url(http://www.agroparistech.fr/ufr-info/iodaa/admin/img/menu_img.png) no-repeat right top;
+      background:url(https://iodaa.github.io/menu_img.png) no-repeat right top;
       padding:5px 15px 4px 6px;
       color:#669900;
 	  margin:0px 5px 0px 0px;
@@ -271,7 +271,7 @@ a:hover					{ color: #999999; text-decoration: none; }
 
 #topmenu form{
       float:left;
-      background:url(http://www.agroparistech.fr/ufr-info/iodaa/admin/img/menuleft.gif) no-repeat left top;
+      background:url(https://iodaa.github.io/menuleft.gif) no-repeat left top;
       margin:0;
       padding:0 0 0 4px;
       text-decoration:none;
@@ -279,7 +279,7 @@ a:hover					{ color: #999999; text-decoration: none; }
 #topmenu form span {
       float:left;
       display:block;
-      background:url(http://www.agroparistech.fr/ufr-info/iodaa/admin/img/menu_img.png) no-repeat right top;
+      background:url(https://iodaa.github.io/menu_img.png) no-repeat right top;
       padding:2px 15px 2px 6px;
       color:#669900;
 	  margin:0px 5px 0px 0px;
@@ -298,7 +298,7 @@ a:hover					{ color: #999999; text-decoration: none; }
 #topmenu #active form span {
       float:left;
       display:block;
-      background:url(http://www.agroparistech.fr/ufr-info/iodaa/admin/img/menu_img.png) no-repeat right top;
+      background:url(https://iodaa.github.io/menu_img.png) no-repeat right top;
       padding:2px 15px 2px 6px;
       color:#FF8000;
 	  font-size:105%
@@ -309,7 +309,7 @@ a:hover					{ color: #999999; text-decoration: none; }
 #topmenu #active a span {
       float:left;
       display:block;
-      background:url(http://www.agroparistech.fr/ufr-info/iodaa/admin/img/menu_img.png) no-repeat right top;
+      background:url(https://iodaa.github.io/menu_img.png) no-repeat right top;
       padding:5px 15px 4px 6px;
       color:#FF8000;
 	  font-size:102%
@@ -329,7 +329,7 @@ a:hover					{ color: #999999; text-decoration: none; }
     }
 	
 #intra_bouton a{
-	 background:url(http://www.agroparistech.fr/ufr-info/iodaa/admin/img/bouton_intra.png) no-repeat right top;
+	 background:url(https://iodaa.github.io/bouton_intra.png) no-repeat right top;
 	  display:block;
 	float:right;
 	width:100px;
@@ -344,7 +344,7 @@ a:hover					{ color: #999999; text-decoration: none; }
 }
 
 #intra_bouton a:hover{
-	background:url(http://www.agroparistech.fr/ufr-info/iodaa/admin/img/bouton_intra_hover.png) no-repeat right top;
+	background:url(https://iodaa.github.io/bouton_intra_hover.png) no-repeat right top;
 	color:#FF8000;
 
 }
