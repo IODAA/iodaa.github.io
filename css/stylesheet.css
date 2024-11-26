@@ -16,7 +16,7 @@ body
 	width: 1000px;
 	background-color: #FFFFFF;
 	background:url(../img/border_img.png) no-repeat;
-	margin: -26px auto;
+	margin: 0 auto;
 }
 
 #container 
@@ -43,7 +43,7 @@ body
 	margin-left: 20px;
 	max-width: 960px;
 	background-color: #FFFFFF;
-	min-height: 550px;
+	
 }
 
 #content .idea {
@@ -139,7 +139,7 @@ body
 	float: left;
 	overflow: hidden;
 	text-align: justify;
-	min-height: 500px;
+	min-height: 470px;
 }
 
 #introduction{
